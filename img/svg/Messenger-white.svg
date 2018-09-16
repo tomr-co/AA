@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Messenger-white</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Messenger-white" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M7.5,0 C3.358125,0 0,3.109375 0,6.944375 C0,9.13 1.090625,11.079375 2.795,12.351875 L2.795,15 L5.34875,13.59875 C6.03,13.786875 6.7525,13.88875 7.5,13.88875 C11.641875,13.88875 15,10.78 15,6.944375 C15,3.109375 11.641875,0 7.5,0 Z M8.78957504,9 L6.82783413,7.12781847 L3,9 L7.21042496,5 L9.21966876,6.87218153 L13,5 L8.78957504,9 Z" id="iconmonstr-facebook-messenger-1" fill="#FFFFFF"></path>
+    </g>
+</svg>

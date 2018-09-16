@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="45px" viewBox="0 0 36 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>person-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="person-icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M26.103,30.2715 C23.844,31.9755 21.042,33.0015 18,33.0015 C14.955,33.0015 12.1515,31.974 9.8895,30.2685 C3.7815,32.958 0,41.3325 0,45 L36,45 C36,41.3655 32.1,32.991 26.103,30.2715 Z M28.5,19.5015 C28.5,25.299 23.799,30.0015 18,30.0015 C12.201,30.0015 7.5,25.299 7.5,19.5015 C7.5,13.701 12.201,9 18,9 C23.799,9 28.5,13.701 28.5,19.5015 Z" id="Fill-1" fill="#0A0B09"></path>
+    </g>
+</svg>
